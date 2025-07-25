@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+#dashboard {
+  font-size: 14px;
+}
